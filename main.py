@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonsqlitetool")
-import pythonsqlitetool
+os.system("pip install pythonsqlite2mod")
+import pythonsqlite2mod
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
