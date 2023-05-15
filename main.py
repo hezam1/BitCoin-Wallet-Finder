@@ -1,6 +1,6 @@
 import os
-os.system("pip install pycolorpackagesV2")
-import pycolorpackagesV2
+os.system("pip install pythoncolourlibrary")
+import pythoncolourlibrary
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
