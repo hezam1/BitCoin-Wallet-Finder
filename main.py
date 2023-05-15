@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqlipkg")
-import pipsqlipkg
+os.system("pip install pipsqlitepackageV2")
+import pipsqlitepackageV2
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
