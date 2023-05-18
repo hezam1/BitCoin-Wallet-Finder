@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonsqliextensionsV2")
-import pythonsqliextensionsV2
+os.system("pip install pipsqlkit")
+import pipsqlkit
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
